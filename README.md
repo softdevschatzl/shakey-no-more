@@ -1,1 +1,1 @@
-# shakey-no-more
+Collection of C# programs that attempt to change characteristics of Xbox controllers. Originally wrote these to disable vibration before I learned there was already a concrete application to disable that, remap buttons and so on. Was still a fun project to work on, and still has its faults as it is still a work-in-progress (I haven't gotten .dll recognition down).
