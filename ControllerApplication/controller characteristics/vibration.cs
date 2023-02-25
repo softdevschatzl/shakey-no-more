@@ -26,7 +26,7 @@ namespace XboxController
             // Disable vibration on the controller.
             XInputSetState(0, ref vibration);
 
-            Console.WriteLine("Vibration disabled on controller 0.");
+            Console.WriteLine("Vibration disabled on your controller.");
         }
     }
 }
